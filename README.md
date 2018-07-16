@@ -19,5 +19,5 @@ Setup addinonal admins:
 <br>
 
 Setup Cloudflare:  
-Seperated ducu...  
+Seperated docu...  
 https://github.com/LV-Crew/Cloudflare-Notes  
