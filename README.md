@@ -18,6 +18,12 @@ Setup addinonal admins:
 
 <br>
 
+Migrate from old server:  
+Maybe you have already the Plesk Extension 'Migrator' installed...  
+...  
+
+<br>
+
 Setup Cloudflare:  
 Seperated docu...  
 https://github.com/LV-Crew/Cloudflare-Notes  
