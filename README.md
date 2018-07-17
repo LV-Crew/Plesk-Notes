@@ -21,6 +21,7 @@ Setup addinonal admins:
 Migrate from old server:  
 Maybe you have already the Plesk Extension 'Migrator' installed...  
 ...  
+https://support.plesk.com/hc/en-us/articles/213912645-Plesk-Migration-and-Transfer-Guide  
 
 <br>
 
